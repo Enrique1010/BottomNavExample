@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BottomNavBarExample</string>
+
+    <!--Home Screen-->
+    <string name="title_home">Home</string>
+
+    <!--Details Screen-->
+    <string name="title_details">Details</string>
+    <string name="btn_text_go_to_details">Go to Details</string>
+
+    <!--Settings Screen-->
+    <string name="title_settings">Settings</string>
+
+    <!--Search Screen-->
+    <string name="title_search">Search</string>
+</resources>
